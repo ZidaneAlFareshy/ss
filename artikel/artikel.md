@@ -1,0 +1,3 @@
+format tata letak halaman web. CSS merupakan sebuah temuan untuk membantu pengembang web yang tadinya hanya bergantung pada HTML sebagai bahasa markup. HTML di awal mula digunakan untuk menandai objek di halaman web seperti tabel, gambar, paragraf, dan sebagainya.
+
+Penggunaan HTML di awal mula perkembangan internet memang bisa dibilang cukup karena saat itu internet hanya digunakan oleh kalangan terbatas untuk berbagi informasi penelitian. Saat itu, proses format halaman amat terbatas dan gaya atau style halaman situs masih monoton. Namun belakangan, setelah internet digunakan luas dan mak
